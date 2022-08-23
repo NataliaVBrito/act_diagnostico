@@ -1,0 +1,19 @@
+.card {
+    border: 5px solid #4e342e;
+    border-radius: 10px;
+    background-color: #c8ac6f;
+}
+
+.card-title,
+a {
+    font-family: 'IBM Plex Serif', serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+p {
+    font-family: 'IBM Plex Mono', monospace;
+}
